@@ -1,0 +1,2 @@
+# DATA_CLEANING-Online-RetailsData-
+Retail Analytics: SQL &amp; Python End-to-end analysis of 125k+ transactions. Features:  SQL: Data ingestion &amp; cleaning.  Python: EDA &amp; Time-series trends.  RFM Modeling: Segmented customers (P0, P1, P2) based on Recency, Frequency &amp; Monetary value.  Churn Analysis: Visualized active vs. inactive users. Delivers actionable business insights via data.
